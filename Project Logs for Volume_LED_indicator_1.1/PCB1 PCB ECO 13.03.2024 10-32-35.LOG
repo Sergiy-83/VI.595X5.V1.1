@@ -1,0 +1,347 @@
+Change Component Comment : Designator=C1 Old Comment=* New Comment=0.1 мк‘
+Change Component Comment : Designator=C2 Old Comment=* New Comment=0.1 мк‘
+Change Component Comment : Designator=C3 Old Comment=* New Comment=0.1 мк‘
+Change Component Comment : Designator=C7 Old Comment=* New Comment=0.1 мк‘
+Change Component Comment : Designator=R11 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R12 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R13 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R14 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R15 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R17 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R18 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R24 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R25 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R26 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R27 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R28 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R29 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R30 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R31 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R32 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R33 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R34 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R35 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R36 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R37 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R38 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R39 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R40 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R41 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R42 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R43 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R44 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R45 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R46 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R47 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=C8 Old Comment=* New Comment=10 мк‘
+Change Component Comment : Designator=ENC1 Old Comment=* New Comment=-
+Change Component Comment : Designator=C5 Old Comment=* New Comment=SMD 0805
+Change Component Comment : Designator=X1 Old Comment=* New Comment=XH2.54-5
+Change Component Comment : Designator=X2 Old Comment=* New Comment=XH2.54-5
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C11
+Change Component Designator: OldDesignator=C7 NewDesignator=C4
+Change Component Designator: OldDesignator=C8 NewDesignator=C5
+Change Component Designator: OldDesignator=C9 NewDesignator=C6
+Change Component Designator: OldDesignator=C10 NewDesignator=C7
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC2
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC3
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC4
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC5
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC6
+Change Component Designator: OldDesignator=IC6 NewDesignator=IC1
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED33
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED34
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED7 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED8 NewDesignator=LED6
+Change Component Designator: OldDesignator=LED9 NewDesignator=LED7
+Change Component Designator: OldDesignator=LED10 NewDesignator=LED8
+Change Component Designator: OldDesignator=LED11 NewDesignator=LED9
+Change Component Designator: OldDesignator=LED12 NewDesignator=LED10
+Change Component Designator: OldDesignator=LED13 NewDesignator=LED11
+Change Component Designator: OldDesignator=LED14 NewDesignator=LED12
+Change Component Designator: OldDesignator=LED15 NewDesignator=LED13
+Change Component Designator: OldDesignator=LED16 NewDesignator=LED14
+Change Component Designator: OldDesignator=LED17 NewDesignator=LED15
+Change Component Designator: OldDesignator=LED18 NewDesignator=LED16
+Change Component Designator: OldDesignator=LED19 NewDesignator=LED17
+Change Component Designator: OldDesignator=LED20 NewDesignator=LED18
+Change Component Designator: OldDesignator=LED21 NewDesignator=LED19
+Change Component Designator: OldDesignator=LED22 NewDesignator=LED20
+Change Component Designator: OldDesignator=LED23 NewDesignator=LED21
+Change Component Designator: OldDesignator=LED24 NewDesignator=LED22
+Change Component Designator: OldDesignator=LED25 NewDesignator=LED23
+Change Component Designator: OldDesignator=LED26 NewDesignator=LED24
+Change Component Designator: OldDesignator=LED27 NewDesignator=LED25
+Change Component Designator: OldDesignator=LED28 NewDesignator=LED26
+Change Component Designator: OldDesignator=LED29 NewDesignator=LED27
+Change Component Designator: OldDesignator=LED30 NewDesignator=LED28
+Change Component Designator: OldDesignator=LED31 NewDesignator=LED29
+Change Component Designator: OldDesignator=LED32 NewDesignator=LED30
+Change Component Designator: OldDesignator=LED33 NewDesignator=LED31
+Change Component Designator: OldDesignator=LED34 NewDesignator=LED32
+Change Component Designator: OldDesignator=R1 NewDesignator=R17
+Change Component Designator: OldDesignator=R2 NewDesignator=R18
+Change Component Designator: OldDesignator=R3 NewDesignator=R19
+Change Component Designator: OldDesignator=R4 NewDesignator=R45
+Change Component Designator: OldDesignator=R5 NewDesignator=R46
+Change Component Designator: OldDesignator=R6 NewDesignator=R48
+Change Component Designator: OldDesignator=R7 NewDesignator=R36
+Change Component Designator: OldDesignator=R8 NewDesignator=R37
+Change Component Designator: OldDesignator=R9 NewDesignator=R38
+Change Component Designator: OldDesignator=R10 NewDesignator=R39
+Change Component Designator: OldDesignator=R11 NewDesignator=R1
+Change Component Designator: OldDesignator=R12 NewDesignator=R2
+Change Component Designator: OldDesignator=R13 NewDesignator=R3
+Change Component Designator: OldDesignator=R14 NewDesignator=R4
+Change Component Designator: OldDesignator=R15 NewDesignator=R5
+Change Component Designator: OldDesignator=R16 NewDesignator=R6
+Change Component Designator: OldDesignator=R17 NewDesignator=R7
+Change Component Designator: OldDesignator=R18 NewDesignator=R8
+Change Component Designator: OldDesignator=R19 NewDesignator=R40
+Change Component Designator: OldDesignator=R20 NewDesignator=R41
+Change Component Designator: OldDesignator=R21 NewDesignator=R42
+Change Component Designator: OldDesignator=R22 NewDesignator=R43
+Change Component Designator: OldDesignator=R23 NewDesignator=R44
+Change Component Designator: OldDesignator=R24 NewDesignator=R9
+Change Component Designator: OldDesignator=R25 NewDesignator=R10
+Change Component Designator: OldDesignator=R26 NewDesignator=R11
+Change Component Designator: OldDesignator=R27 NewDesignator=R12
+Change Component Designator: OldDesignator=R28 NewDesignator=R13
+Change Component Designator: OldDesignator=R29 NewDesignator=R14
+Change Component Designator: OldDesignator=R30 NewDesignator=R15
+Change Component Designator: OldDesignator=R31 NewDesignator=R16
+Change Component Designator: OldDesignator=R32 NewDesignator=R20
+Change Component Designator: OldDesignator=R33 NewDesignator=R21
+Change Component Designator: OldDesignator=R34 NewDesignator=R22
+Change Component Designator: OldDesignator=R35 NewDesignator=R23
+Change Component Designator: OldDesignator=R36 NewDesignator=R24
+Change Component Designator: OldDesignator=R37 NewDesignator=R25
+Change Component Designator: OldDesignator=R38 NewDesignator=R26
+Change Component Designator: OldDesignator=R39 NewDesignator=R27
+Change Component Designator: OldDesignator=R40 NewDesignator=R28
+Change Component Designator: OldDesignator=R41 NewDesignator=R29
+Change Component Designator: OldDesignator=R42 NewDesignator=R30
+Change Component Designator: OldDesignator=R43 NewDesignator=R31
+Change Component Designator: OldDesignator=R44 NewDesignator=R32
+Change Component Designator: OldDesignator=R45 NewDesignator=R33
+Change Component Designator: OldDesignator=R46 NewDesignator=R34
+Change Component Designator: OldDesignator=R47 NewDesignator=R35
+Change Component Designator: OldDesignator=R48 NewDesignator=R49
+Change Component Designator: OldDesignator=R49 NewDesignator=R47
+Change component parameters: Designator = "C8"; Footprint = " онденсатор SMD Case 0805"; UniqueID = "\RVHFEWUQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = " онденсатор SMD Case 0805"; UniqueID = "\HOKMBEJF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "SMD 0805 –езистор"; UniqueID = "\KLBKELKJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "SMD 0805 –езистор"; UniqueID = "\CYCEGXVF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "SMD 0805 –езистор"; UniqueID = "\NWIDMEVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "SMD 0805 –езистор"; UniqueID = "\TTUUMSIJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "SMD 0805 –езистор"; UniqueID = "\YLUPXORV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "SMD 0805 –езистор"; UniqueID = "\SLWULOUB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "SMD 0805 –езистор"; UniqueID = "\NHDIVFTR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "SMD 0805 –езистор"; UniqueID = "\FBONIFOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "SMD 0805 –езистор"; UniqueID = "\VYUGMOQN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "SMD 0805 –езистор"; UniqueID = "\OUPYJSYY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "SMD 0805 –езистор"; UniqueID = "\HXAHDDDO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "SMD 0805 –езистор"; UniqueID = "\UASFUMLU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14"; Footprint = "SMD 0805 –езистор"; UniqueID = "\JWOGBSDF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15"; Footprint = "SMD 0805 –езистор"; UniqueID = "\BVBTHDNY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16"; Footprint = "SMD 0805 –езистор"; UniqueID = "\AGRUFHMB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20"; Footprint = "SMD 0805 –езистор"; UniqueID = "\UVKOYESQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21"; Footprint = "SMD 0805 –езистор"; UniqueID = "\WHGKPWJD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "SMD 0805 –езистор"; UniqueID = "\HEBCVCGA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23"; Footprint = "SMD 0805 –езистор"; UniqueID = "\KKAYVXCL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24"; Footprint = "SMD 0805 –езистор"; UniqueID = "\SXVMFMBL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25"; Footprint = "SMD 0805 –езистор"; UniqueID = "\XCGNMYFQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26"; Footprint = "SMD 0805 –езистор"; UniqueID = "\UBCXVKLI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27"; Footprint = "SMD 0805 –езистор"; UniqueID = "\RGKQPDEQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28"; Footprint = "SMD 0805 –езистор"; UniqueID = "\CIBFDPDL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29"; Footprint = "SMD 0805 –езистор"; UniqueID = "\LXRBDXWU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30"; Footprint = "SMD 0805 –езистор"; UniqueID = "\MFBASWXS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31"; Footprint = "SMD 0805 –езистор"; UniqueID = "\TDWUFSNN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32"; Footprint = "SMD 0805 –езистор"; UniqueID = "\MRETTIBU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33"; Footprint = "SMD 0805 –езистор"; UniqueID = "\NCMOTNSN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34"; Footprint = "SMD 0805 –езистор"; UniqueID = "\UCGDQINO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35"; Footprint = "SMD 0805 –езистор"; UniqueID = "\WMHKWWBJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = " онденсатор SMD Case 0805"; UniqueID = "\DTKOMWDW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 мк‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = " онденсатор SMD Case 0805"; UniqueID = "\PBPOKCMR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 мк‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = " онденсатор SMD Case 0805"; UniqueID = "\CLEAQWPV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 мк‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = " онденсатор SMD Case 0805"; UniqueID = "\YWTSCFCJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 мк‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = " онденсатор SMD Case 1206"; UniqueID = "\ECNGGRPK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 мк‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "ENC1"; Footprint = "Encoder"; UniqueID = "\BMSVCHSP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1"; Footprint = "(1x5)pin XH 2.54 Header"; UniqueID = "\VFCQCUXY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "XH2.54-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "XH2.54-5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X2"; Footprint = "(1x5)pin XH 2.54 Header"; UniqueID = "\KDSAGQWV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "XH2.54-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "XH2.54-5"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetIC1_14 New Net Name=NetIC2_14
+Change Net Name : Old Net Name=NetIC2_9 New Net Name=NetIC3_9
+Change Net Name : Old Net Name=NetIC4_7 New Net Name=L_EN
+Change Net Name : Old Net Name=NetIC4_14 New Net Name=NetIC5_14
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetLED33_2
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetLED34_2
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED2_2
+Change Net Name : Old Net Name=NetLED5_2 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=NetLED6_2 New Net Name=NetLED4_2
+Change Net Name : Old Net Name=NetLED7_2 New Net Name=NetLED5_2
+Change Net Name : Old Net Name=NetLED8_2 New Net Name=NetLED6_2
+Change Net Name : Old Net Name=NetLED9_2 New Net Name=NetLED7_2
+Change Net Name : Old Net Name=NetLED10_2 New Net Name=NetLED8_2
+Change Net Name : Old Net Name=NetLED11_2 New Net Name=NetLED9_2
+Change Net Name : Old Net Name=NetLED12_2 New Net Name=NetLED10_2
+Change Net Name : Old Net Name=NetLED13_2 New Net Name=NetLED11_2
+Change Net Name : Old Net Name=NetLED14_2 New Net Name=NetLED12_2
+Change Net Name : Old Net Name=NetLED15_2 New Net Name=NetLED13_2
+Change Net Name : Old Net Name=NetLED16_2 New Net Name=NetLED14_2
+Change Net Name : Old Net Name=NetLED17_2 New Net Name=NetLED15_2
+Change Net Name : Old Net Name=NetLED18_2 New Net Name=NetLED16_2
+Change Net Name : Old Net Name=NetLED19_2 New Net Name=NetLED17_2
+Change Net Name : Old Net Name=NetLED20_2 New Net Name=NetLED18_2
+Change Net Name : Old Net Name=NetLED21_2 New Net Name=NetLED19_2
+Change Net Name : Old Net Name=NetLED22_2 New Net Name=NetLED20_2
+Change Net Name : Old Net Name=NetLED23_2 New Net Name=NetLED21_2
+Change Net Name : Old Net Name=NetLED24_2 New Net Name=NetLED22_2
+Change Net Name : Old Net Name=NetLED25_2 New Net Name=NetLED23_2
+Change Net Name : Old Net Name=NetLED26_2 New Net Name=NetLED24_2
+Change Net Name : Old Net Name=NetLED27_2 New Net Name=NetLED25_2
+Change Net Name : Old Net Name=NetLED28_2 New Net Name=NetLED26_2
+Change Net Name : Old Net Name=NetLED29_2 New Net Name=NetLED27_2
+Change Net Name : Old Net Name=NetLED30_2 New Net Name=NetLED28_2
+Change Net Name : Old Net Name=NetLED31_2 New Net Name=NetLED29_2
+Change Net Name : Old Net Name=NetLED32_2 New Net Name=NetLED30_2
+Change Net Name : Old Net Name=NetLED33_2 New Net Name=NetLED31_2
+Change Net Name : Old Net Name=NetLED34_2 New Net Name=NetLED32_2
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR38_2

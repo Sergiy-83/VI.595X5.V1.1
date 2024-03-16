@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=C11 Old Footprint=Конденсатор SMD Case 0805 New Footprint=Конденсатор SMD Case 1206
+Change Component Comment : Designator=T1 Old Comment=* New Comment=SI2302 (A2SHB)
+Change component parameters: Designator = "R38"; Footprint = "SMD 0805 Резистор"; UniqueID = "\FANIKEFD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2 кОм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42"; Footprint = "SMD 0805 Резистор"; UniqueID = "\IXGYHFNV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кОм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43"; Footprint = "SMD 0805 Резистор"; UniqueID = "\WXVRFNEM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2 кОм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44"; Footprint = "SMD 0805 Резистор"; UniqueID = "\FFUHWLEQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "T1"; Footprint = "SMD SOT-23 Транзистор 3 pin"; UniqueID = "\HIBXAEQT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "SI2302 (A2SHB)"; VariantName = "[No Variations]"

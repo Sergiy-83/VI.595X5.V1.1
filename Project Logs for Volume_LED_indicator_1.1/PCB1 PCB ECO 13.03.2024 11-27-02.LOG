@@ -1,0 +1,51 @@
+Change Component Comment : Designator=R40 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R41 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R42 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R47 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R49 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R36 Old Comment=* New Comment=2 кќм
+Change Component Comment : Designator=R37 Old Comment=* New Comment=2 кќм
+Change Component Comment : Designator=R38 Old Comment=* New Comment=2 кќм
+Change Component Comment : Designator=R39 Old Comment=* New Comment=2 кќм
+Change Component Comment : Designator=R43 Old Comment=* New Comment=2 кќм
+Change component parameters: Designator = "R36"; Footprint = "SMD 0805 –езистор"; UniqueID = "\ONAQOCJC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37"; Footprint = "SMD 0805 –езистор"; UniqueID = "\OVMDUHNE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38"; Footprint = "SMD 0805 –езистор"; UniqueID = "\CCJLVTET"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39"; Footprint = "SMD 0805 –езистор"; UniqueID = "\FANIKEFD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40"; Footprint = "SMD 0805 –езистор"; UniqueID = "\OKKFSJOB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41"; Footprint = "SMD 0805 –езистор"; UniqueID = "\DECIUADB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42"; Footprint = "SMD 0805 –езистор"; UniqueID = "\IXGYHFNV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43"; Footprint = "SMD 0805 –езистор"; UniqueID = "\WXVRFNEM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R47"; Footprint = "SMD 0805 –езистор"; UniqueID = "\MBMLUGOL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49"; Footprint = "SMD 0805 –езистор"; UniqueID = "\XJMQXVLY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L_EN Pin=LED33-1

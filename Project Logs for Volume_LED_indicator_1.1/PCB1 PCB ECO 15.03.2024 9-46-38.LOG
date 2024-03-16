@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C9 Old Footprint=Конденсатор SMD Case 0805 New Footprint=Конденсатор SMD Case 1206
+Change component parameters: Designator = "C9"; Footprint = "Конденсатор SMD Case 1206"; UniqueID = "\CLEAQWPV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 мкФ"; VariantName = "[No Variations]"

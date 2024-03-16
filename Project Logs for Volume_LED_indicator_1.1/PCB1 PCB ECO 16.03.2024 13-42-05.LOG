@@ -1,0 +1,241 @@
+Change Component Comment : Designator=R37 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R38 Old Comment=* New Comment=1 кќм
+Change Component Comment : Designator=R33 Old Comment=* New Comment=2 кќм
+Change Component Comment : Designator=R34 Old Comment=* New Comment=2 кќм
+Change Component Comment : Designator=LED2 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED3 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED4 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED5 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED6 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED7 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED8 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED9 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED10 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED11 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED12 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED13 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED14 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED15 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED16 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED17 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED18 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED19 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED20 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED21 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED22 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED23 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED24 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED25 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED26 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED27 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED28 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED29 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED30 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED31 Old Comment=* New Comment=White
+Change Component Comment : Designator=LED32 Old Comment=* New Comment=White
+Change Component Comment : Designator=ENC1 Old Comment=- New Comment=EC11E15204A3
+Change Component Comment : Designator=LED1 Old Comment=5x2 New Comment=White
+Change component parameters: Designator = "R2" ("R2"); Footprint = "SMD 0805 –езистор"; UniqueID = "\NHDIVFTR" ("\NHDIVFTR")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "SMD 0805 –езистор"; UniqueID = "\SLWULOUB" ("\SLWULOUB")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "SMD 0805 –езистор"; UniqueID = "\TTUUMSIJ" ("\TTUUMSIJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "SMD 0805 –езистор"; UniqueID = "\NWIDMEVE" ("\NWIDMEVE")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "SMD 0805 –езистор"; UniqueID = "\CYCEGXVF" ("\CYCEGXVF")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "SMD 0805 –езистор"; UniqueID = "\KLBKELKJ" ("\KLBKELKJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "SMD 0805 –езистор"; UniqueID = "\AGRUFHMB" ("\AGRUFHMB")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "SMD 0805 –езистор"; UniqueID = "\BVBTHDNY" ("\BVBTHDNY")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "SMD 0805 –езистор"; UniqueID = "\JWOGBSDF" ("\JWOGBSDF")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "SMD 0805 –езистор"; UniqueID = "\UASFUMLU" ("\UASFUMLU")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "SMD 0805 –езистор"; UniqueID = "\HXAHDDDO" ("\HXAHDDDO")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "SMD 0805 –езистор"; UniqueID = "\OUPYJSYY" ("\OUPYJSYY")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "SMD 0805 –езистор"; UniqueID = "\VYUGMOQN" ("\VYUGMOQN")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "SMD 0805 –езистор"; UniqueID = "\FBONIFOV" ("\FBONIFOV")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "SMD 0805 –езистор"; UniqueID = "\RGKQPDEQ" ("\RGKQPDEQ")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "SMD 0805 –езистор"; UniqueID = "\UBCXVKLI" ("\UBCXVKLI")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "SMD 0805 –езистор"; UniqueID = "\XCGNMYFQ" ("\XCGNMYFQ")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "SMD 0805 –езистор"; UniqueID = "\SXVMFMBL" ("\SXVMFMBL")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "SMD 0805 –езистор"; UniqueID = "\KKAYVXCL" ("\KKAYVXCL")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "SMD 0805 –езистор"; UniqueID = "\HEBCVCGA" ("\HEBCVCGA")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "SMD 0805 –езистор"; UniqueID = "\WHGKPWJD" ("\WHGKPWJD")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "SMD 0805 –езистор"; UniqueID = "\UVKOYESQ" ("\UVKOYESQ")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "SMD 0805 –езистор"; UniqueID = "\WMHKWWBJ" ("\WMHKWWBJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "SMD 0805 –езистор"; UniqueID = "\UCGDQINO" ("\UCGDQINO")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "SMD 0805 –езистор"; UniqueID = "\NCMOTNSN" ("\NCMOTNSN")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "SMD 0805 –езистор"; UniqueID = "\MRETTIBU" ("\MRETTIBU")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "SMD 0805 –езистор"; UniqueID = "\TDWUFSNN" ("\TDWUFSNN")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "SMD 0805 –езистор"; UniqueID = "\MFBASWXS" ("\MFBASWXS")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "SMD 0805 –езистор"; UniqueID = "\LXRBDXWU" ("\LXRBDXWU")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "SMD 0805 –езистор"; UniqueID = "\CIBFDPDL" ("\CIBFDPDL")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "SMD 0805 –езистор"; UniqueID = "\FFUHWLEQ" ("\FFUHWLEQ")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "ENC1" ("ENC1"); Footprint = "Encoder"; UniqueID = "\BMSVCHSP" ("\BMSVCHSP")
+Change component parameters (AddParameter): Name = "Case"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "EC11E15204A3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED1" ("LED1"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\XKBENQHL" ("\XKBENQHL")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED2" ("LED2"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\YJRAISOF" ("\YJRAISOF")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED3" ("LED3"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\MWNPEPYT" ("\MWNPEPYT")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED4" ("LED4"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\EKYTBLEX" ("\EKYTBLEX")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED5" ("LED5"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\WYUYANTT" ("\WYUYANTT")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED6" ("LED6"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\KLBPKYBV" ("\KLBPKYBV")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED7" ("LED7"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\WTWOMBFI" ("\WTWOMBFI")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED8" ("LED8"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\ENQAENMX" ("\ENQAENMX")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED9" ("LED9"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\WRUUIXVB" ("\WRUUIXVB")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED10" ("LED10"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\AGRLOXYN" ("\AGRLOXYN")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED11" ("LED11"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\BBJGSECB" ("\BBJGSECB")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED12" ("LED12"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\XRYTKSIA" ("\XRYTKSIA")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED13" ("LED13"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\WXKXCTVN" ("\WXKXCTVN")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED14" ("LED14"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\CIQXXTWN" ("\CIQXXTWN")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED15" ("LED15"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\FJMACQML" ("\FJMACQML")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED16" ("LED16"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\CYEHVEEV" ("\CYEHVEEV")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED17" ("LED17"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\RNKFBFWW" ("\RNKFBFWW")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED18" ("LED18"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\CIYFQHGS" ("\CIYFQHGS")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED19" ("LED19"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\AXHCAKSY" ("\AXHCAKSY")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED20" ("LED20"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\AKOSJNWA" ("\AKOSJNWA")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED21" ("LED21"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\YIDQCKWR" ("\YIDQCKWR")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED22" ("LED22"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\DEMHUELJ" ("\DEMHUELJ")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED23" ("LED23"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\QNUKBXQK" ("\QNUKBXQK")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED24" ("LED24"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\GFVOKKUR" ("\GFVOKKUR")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED25" ("LED25"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\AGJBGWJL" ("\AGJBGWJL")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED26" ("LED26"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\FQAYBHCR" ("\FQAYBHCR")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED27" ("LED27"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\WCALGLGY" ("\WCALGLGY")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED28" ("LED28"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\TYEQOHDC" ("\TYEQOHDC")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED29" ("LED29"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\EPEBYXCT" ("\EPEBYXCT")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED30" ("LED30"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\AOVDCQJP" ("\AOVDCQJP")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED31" ("LED31"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\MEFJWBXP" ("\MEFJWBXP")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED32" ("LED32"); Footprint = "—ветодиод  5x2 mm"; UniqueID = "\VBFIQCXS" ("\VBFIQCXS")
+Change component parameters (AddParameter): Name = "Case"; Value = "5x2x6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "SMD 0805 –езистор"; UniqueID = "\ONAQOCJC" ("\ONAQOCJC")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "SMD 0805 –езистор"; UniqueID = "\OVMDUHNE" ("\OVMDUHNE")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "SMD 0805 –езистор"; UniqueID = "\OKKFSJOB" ("\OKKFSJOB")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "SMD 0805 –езистор"; UniqueID = "\DECIUADB" ("\DECIUADB")
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
