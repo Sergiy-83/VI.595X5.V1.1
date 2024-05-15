@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=L_EN Pin=T1-1
-Change Component Designator: OldDesignator=R46 NewDesignator=R47
-Change Component Designator: OldDesignator=R47 NewDesignator=R48
-Change Component Designator: OldDesignator=R48 NewDesignator=R49
-Change Component Designator: OldDesignator=R49 NewDesignator=R50
-Added Pin To Net: NetName=NetR46_1 Pin=T1-1
-Added Net: Name=NetR46_1
-Added Member To Class: ClassName=Sheet1 Member=Component R50 0 Îì

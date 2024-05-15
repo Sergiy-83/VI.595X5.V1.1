@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [VI.595X5.V1.1.PcbDoc]
+   Generated File[VI.595X5.V1.1.GTL]
+   Generated File[VI.595X5.V1.1.GBL]
+   Generated File[VI.595X5.V1.1.GTO]
+   Generated File[VI.595X5.V1.1.GTS]
+   Generated File[VI.595X5.V1.1.GBS]
+   Generated File[VI.595X5.V1.1.GBO]
+   Generated File[VI.595X5.V1.1.GKO]
+   Generated File[VI.595X5.V1.1.RUL]
+   Generated File[VI.595X5.V1.1.EXTREP]
+   Generated File[VI.595X5.V1.1.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 11:10:15 On 12.04.2024
