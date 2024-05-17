@@ -1,0 +1,49 @@
+Change Component Comment : Designator=R41 Old Comment=* New Comment=*200 ќм
+Change Component Comment : Designator=R37 Old Comment=1 кќм New Comment=100 ќм
+Change Component Comment : Designator=R38 Old Comment=1 кќм New Comment=100 ќм
+Change Component Comment : Designator=R39 Old Comment=1 кќм New Comment=100 ќм
+Change Component Comment : Designator=R33 Old Comment=2 кќм New Comment=200 ќм
+Change Component Comment : Designator=R34 Old Comment=2 кќм New Comment=200 ќм
+Change Component Comment : Designator=R35 Old Comment=2 кќм New Comment=200 ќм
+Change Component Comment : Designator=R36 Old Comment=2 кќм New Comment=200 ќм
+Change Component Comment : Designator=R40 Old Comment=2 кќм New Comment=200 ќм
+Change component parameters: Designator = "R33"; Footprint = "SMD 0805 –езистор"; UniqueID = "\ONAQOCJC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 ќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34"; Footprint = "SMD 0805 –езистор"; UniqueID = "\OVMDUHNE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 ќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35"; Footprint = "SMD 0805 –езистор"; UniqueID = "\CCJLVTET"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 ќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36"; Footprint = "SMD 0805 –езистор"; UniqueID = "\FANIKEFD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 ќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37"; Footprint = "SMD 0805 –езистор"; UniqueID = "\OKKFSJOB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 ќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38"; Footprint = "SMD 0805 –езистор"; UniqueID = "\DECIUADB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 ќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39"; Footprint = "SMD 0805 –езистор"; UniqueID = "\IXGYHFNV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 ќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40"; Footprint = "SMD 0805 –езистор"; UniqueID = "\WXVRFNEM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200 ќм"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41"; Footprint = "SMD 0805 –езистор"; UniqueID = "\FFUHWLEQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case"; Value = "SMD 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "*200 ќм"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=ENC1-1
+Change Class Name : Old Net Name=Sheet1 New Net Name=VI.595X5.V1.1
+Change Room Name: Old Name=Sheet1 New Name=VI.595X5.V1.1
+Change Room Scope: Old Scope=InComponentClass('Sheet1') New Scope=InComponentClass('VI.595X5.V1.1')

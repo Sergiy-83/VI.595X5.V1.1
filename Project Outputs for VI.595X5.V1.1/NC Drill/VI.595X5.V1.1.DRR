@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: VI.595X5.V1.1.PcbDoc   12.04.2024  11:10:14
+NCDrill File Report For: VI.595X5.V1.1.PcbDoc   17.05.2024  15:40:32
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : VI.595X5.V1.1.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.5mm (20mil)                                             Round             83        PTH        435.53mm (17.15inch)
+T1      0.5mm (20mil)                                             Round             83        PTH        434.92mm (17.12inch)
 T2      0.8mm (31mil)                                             Round             65        PTH        355.94mm (14.01inch)
 T3      1mm (39mil)                                               Round             10        PTH        49.02mm (1.93inch)
 T4      1.2mm (47mil)                                             Round             5         PTH        24.76mm (0.97inch)
